@@ -1,0 +1,458 @@
+[
+ {
+  "nome": "hook",
+  "de": 0,
+  "ate": 6.8,
+  "video": 0
+ },
+ {
+  "nome": "traducao",
+  "de": 6.8,
+  "ate": 14.48,
+  "video": 6.2
+ },
+ {
+  "nome": "repeticao",
+  "de": 14.48,
+  "ate": 20.94,
+  "video": 13
+ },
+ {
+  "nome": "embolado",
+  "de": 20.94,
+  "ate": 27.42,
+  "video": 18.6
+ },
+ {
+  "nome": "primeiroEp",
+  "de": 27.42,
+  "ate": 33.78,
+  "video": 23.9
+ },
+ {
+  "nome": "aulaEUA",
+  "de": 33.78,
+  "ate": 46.4,
+  "video": 29.7
+ },
+ {
+  "nome": "segundo",
+  "de": 46.4,
+  "ate": 58.18,
+  "video": 40.3
+ },
+ {
+  "nome": "dePrimeira",
+  "de": 58.18,
+  "ate": 67.03,
+  "video": 50.6
+ },
+ {
+  "nome": "operacional",
+  "de": 67.03,
+  "ate": 75.89,
+  "video": 58.1
+ },
+ {
+  "nome": "metas",
+  "de": 75.89,
+  "ate": 91.77,
+  "video": 65.8
+ },
+ {
+  "nome": "unica",
+  "de": 91.77,
+  "ate": 105.8,
+  "video": 79.8
+ },
+ {
+  "nome": "manuela",
+  "de": 105.8,
+  "ate": 112.92,
+  "video": 92.1
+ },
+ {
+  "nome": "noventa",
+  "de": 112.92,
+  "ate": 124.11,
+  "video": 98.1
+ },
+ {
+  "nome": "mundo",
+  "de": 124.11,
+  "ate": 135.18,
+  "video": 108.1
+ },
+ {
+  "nome": "dica",
+  "de": 135.18,
+  "ate": 142.48,
+  "video": 118
+ },
+ {
+  "nome": "series",
+  "de": 142.48,
+  "ate": 154.93,
+  "video": 124.2
+ },
+ {
+  "nome": "cotidiano",
+  "de": 154.93,
+  "ate": 166.48,
+  "video": 134.7
+ },
+ {
+  "nome": "vocab",
+  "de": 166.48,
+  "ate": 176.9,
+  "video": 144.6
+ },
+ {
+  "nome": "quinhentas",
+  "de": 176.9,
+  "ate": 186.52,
+  "video": 154
+ },
+ {
+  "nome": "calculadora",
+  "de": 186.52,
+  "ate": 205.42,
+  "video": 162.2
+ },
+ {
+  "nome": "mesmas",
+  "de": 205.42,
+  "ate": 212.42,
+  "video": 178.9
+ },
+ {
+  "nome": "semSentido",
+  "de": 212.42,
+  "ate": 225.58,
+  "video": 185.1
+ },
+ {
+  "nome": "essencialTit",
+  "de": 225.58,
+  "ate": 232.5,
+  "video": 196.6
+ },
+ {
+  "nome": "peso",
+  "de": 232.5,
+  "ate": 247.26,
+  "video": 202.5
+ },
+ {
+  "nome": "jaConhece",
+  "de": 247.26,
+  "ate": 259.16,
+  "video": 215.3
+ },
+ {
+  "nome": "palavraDia",
+  "de": 259.16,
+  "ate": 267.92,
+  "video": 225
+ },
+ {
+  "nome": "temTudo",
+  "de": 267.92,
+  "ate": 290.52,
+  "video": 232.5
+ },
+ {
+  "nome": "tresTemp",
+  "de": 290.52,
+  "ate": 308.1,
+  "video": 252
+ },
+ {
+  "nome": "funil",
+  "de": 308.1,
+  "ate": 344.44,
+  "video": 267
+ },
+ {
+  "nome": "focado",
+  "de": 344.44,
+  "ate": 356.34,
+  "video": 296.5
+ },
+ {
+  "nome": "nitido",
+  "de": 356.34,
+  "ate": 367.04,
+  "video": 307.2
+ },
+ {
+  "nome": "segundaCena",
+  "de": 367.04,
+  "ate": 376.16,
+  "video": 316.2
+ },
+ {
+  "nome": "metaEp",
+  "de": 376.16,
+  "ate": 394.05,
+  "video": 323.9
+ },
+ {
+  "nome": "resultado",
+  "de": 394.05,
+  "ate": 402.97,
+  "video": 339.4
+ },
+ {
+  "nome": "musico",
+  "de": 402.97,
+  "ate": 413.3,
+  "video": 347.3
+ },
+ {
+  "nome": "trechos",
+  "de": 413.3,
+  "ate": 438.65,
+  "video": 355.8
+ },
+ {
+  "nome": "vantagem",
+  "de": 438.65,
+  "ate": 456.8,
+  "video": 376.9
+ },
+ {
+  "nome": "confianca",
+  "de": 456.8,
+  "ate": 472.34,
+  "video": 392.7
+ },
+ {
+  "nome": "cinco",
+  "de": 472.34,
+  "ate": 492.54,
+  "video": 406
+ },
+ {
+  "nome": "risada",
+  "de": 492.54,
+  "ate": 511.52,
+  "video": 423.4
+ },
+ {
+  "nome": "escada5",
+  "de": 511.52,
+  "ate": 527.58,
+  "video": 440
+ },
+ {
+  "nome": "musico2",
+  "de": 527.58,
+  "ate": 549.53,
+  "video": 453.9
+ },
+ {
+  "nome": "blocos",
+  "de": 549.53,
+  "ate": 565.32,
+  "video": 472.3
+ },
+ {
+  "nome": "centenas",
+  "de": 565.32,
+  "ate": 575.73,
+  "video": 485.9
+ },
+ {
+  "nome": "exemplo",
+  "de": 575.73,
+  "ate": 585.61,
+  "video": 495.2
+ },
+ {
+  "nome": "honestidad",
+  "de": 585.61,
+  "ate": 613.85,
+  "video": 503.6
+ },
+ {
+  "nome": "oQue",
+  "de": 613.85,
+  "ate": 622.14,
+  "video": 527.9
+ },
+ {
+  "nome": "metaClara",
+  "de": 622.14,
+  "ate": 645.22,
+  "video": 534.7
+ },
+ {
+  "nome": "conteudo",
+  "de": 645.22,
+  "ate": 664.09,
+  "video": 555.1
+ },
+ {
+  "nome": "appEntrega",
+  "de": 664.09,
+  "ate": 685.62,
+  "video": 571.6
+ },
+ {
+  "nome": "planoVoo",
+  "de": 685.62,
+  "ate": 694.52,
+  "video": 590.6
+ },
+ {
+  "nome": "fala",
+  "de": 694.52,
+  "ate": 722.04,
+  "video": 598.5
+ },
+ {
+  "nome": "shadowing",
+  "de": 722.04,
+  "ate": 744.16,
+  "video": 622
+ },
+ {
+  "nome": "travados",
+  "de": 744.16,
+  "ate": 788.06,
+  "video": 641
+ },
+ {
+  "nome": "custo",
+  "de": 788.06,
+  "ate": 800.32,
+  "video": 678.7
+ },
+ {
+  "nome": "poderia",
+  "de": 800.32,
+  "ate": 818.04,
+  "video": 689.3
+ },
+ {
+  "nome": "pilha",
+  "de": 818.04,
+  "ate": 837.89,
+  "video": 704.8
+ },
+ {
+  "nome": "baixa",
+  "de": 837.89,
+  "ate": 845.51,
+  "video": 722.5
+ },
+ {
+  "nome": "preco",
+  "de": 845.51,
+  "ate": 857.21,
+  "video": 729.1
+ },
+ {
+  "nome": "naoCurso",
+  "de": 857.21,
+  "ate": 880.29,
+  "video": 739.5
+ },
+ {
+  "nome": "clique",
+  "de": 880.29,
+  "ate": 890.46,
+  "video": 759.3
+ },
+ {
+  "nome": "fases",
+  "de": 890.46,
+  "ate": 896.85,
+  "video": 768.2
+ },
+ {
+  "nome": "fase1",
+  "de": 896.85,
+  "ate": 911.03,
+  "video": 773.7
+ },
+ {
+  "nome": "fase2",
+  "de": 911.03,
+  "ate": 938.91,
+  "video": 785.8
+ },
+ {
+  "nome": "fase3",
+  "de": 938.91,
+  "ate": 961.33,
+  "video": 809.9
+ },
+ {
+  "nome": "acesso",
+  "de": 961.33,
+  "ate": 982.63,
+  "video": 828.3
+ },
+ {
+  "nome": "coragem",
+  "de": 982.63,
+  "ate": 1002.39,
+  "video": 846.8
+ },
+ {
+  "nome": "g7",
+  "de": 1002.39,
+  "ate": 1031.32,
+  "video": 864.1
+ },
+ {
+  "nome": "semPergunta",
+  "de": 1031.32,
+  "ate": 1041.01,
+  "video": 889.4
+ },
+ {
+  "nome": "g90",
+  "de": 1041.01,
+  "ate": 1065.81,
+  "video": 897.8
+ },
+ {
+  "nome": "g90cond",
+  "de": 1065.81,
+  "ate": 1095.89,
+  "video": 919.2
+ },
+ {
+  "nome": "risco",
+  "de": 1095.89,
+  "ate": 1107.85,
+  "video": 946.2
+ },
+ {
+  "nome": "recap",
+  "de": 1107.85,
+  "ate": 1123.64,
+  "video": 956.5
+ },
+ {
+  "nome": "viraChave",
+  "de": 1123.64,
+  "ate": 1136.45,
+  "video": 969.9
+ },
+ {
+  "nome": "decisao",
+  "de": 1136.45,
+  "ate": 1154.65,
+  "video": 980.6
+ },
+ {
+  "nome": "pronto",
+  "de": 1154.65,
+  "ate": 1167.8,
+  "video": 996.3
+ }
+]
